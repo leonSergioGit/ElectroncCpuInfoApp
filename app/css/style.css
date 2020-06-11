@@ -9,7 +9,7 @@
 }
 
 body {
-	background: var(--background-color) url('../img/bg.jpg') no-repeat 0px 40px /
+	background: var(--background-color) url('./img/bg.jpg') no-repeat 0px 40px /
 		cover;
 	color: #fff;
 	font-family: Arial, Helvetica, sans-serif;
